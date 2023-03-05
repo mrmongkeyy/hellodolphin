@@ -65,6 +65,7 @@ body{
 .articleimage img{
 	width:100%;
 	float:left;
+	min-height:100px;
 }
 .articletitle{
 	margin:5px 5px 0 5px;
